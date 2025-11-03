@@ -27,8 +27,11 @@ You list and then run commands by creating a private key and extracting a public
 
 ## Step 2 Encrypting the file using the public key
 I had to run the following commands whih led me to encrypting the content of the file
-
+<img width="1290" height="149" alt="correct encryption" src="https://github.com/user-attachments/assets/3c971862-fe5e-47b8-871f-784850199fc1" />
 
 ## Step 3 Decrypting the file using the private key 
+I had to change the encrypt to decrypt command and then tried cheking the content 
+<img width="1087" height="173" alt="correct decrypted" src="https://github.com/user-attachments/assets/9eaeb370-cafb-4024-8c6e-096633b61363" />
 
-
+##  Conclusion
+This project demonstrates how sensitive business ideas can be protected through encryption. In this simulation, Temi and kemi shared confidential plans for a transaction platform, and encryption ensued that even the file was intercepted, its content remained unreadable. By encrypting and decrypting the message securely, I reinforced my understanding of hybrid encryption and the importance of data confidentiality in cybersecurity.
